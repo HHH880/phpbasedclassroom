@@ -1,0 +1,18 @@
+[
+    {
+        "id": "699cca4e0ca01",
+        "name": "ELVIS KUSI",
+        "email": "ke014192@gmail.com",
+        "password": "$2y$10$VsJ4DfyeL4hXvuppx95i6uZS.vm5sBEGFUL9Pifw.HUEMLQsAPeby",
+        "role": "student",
+        "created_at": "2026-02-23 22:44:46"
+    },
+    {
+        "id": "699ccd5b86c5b",
+        "name": "LEVESQUE",
+        "email": "hhacks263@gmail.com",
+        "password": "$2y$10$\/sjm0OJFV6.Ayf4DpjW6aOtsjbdfKQnYKnHcsvUgmdBX\/kaybeiDW",
+        "role": "admin",
+        "created_at": "2026-02-23 22:57:47"
+    }
+]

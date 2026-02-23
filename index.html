@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Register - Classroom Management System</title>
+    <link rel="stylesheet" href="css/styles.css">
+</head>
+<body>
+    <form action="register.php" method="post">
+        <h3>WELCOME TO OUR CLASSROOM</h3>
+        <br><br>
+        <fieldset>
+            <legend>Please Register Below</legend>
+            <label for="name">Username</label>
+            <input type="text" name="name" required>
+            <br>
+            <label for="email">Email</label>
+            <input type="email" name="email" required>
+            <br>
+            <label for="password">Password</label>
+            <input type="password" name="password" required>
+            <br>
+            <label for="role">Role</label>
+            <select name="role" required>
+                <option value="student">Student</option>
+                <option value="teacher">Teacher</option>
+                <option value="admin">Admin</option>
+            </select>
+            <br>
+            <input type="submit" value="REGISTER">
+            <p>Already have an account? <a href="login.php">Login here</a></p>
+        </fieldset>
+    </form>
+</body>
+</html>

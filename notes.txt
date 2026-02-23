@@ -1,0 +1,4 @@
+1. Can the index.html be replace with index.php and function the same way
+2. Apart from the database(my sql) we used the json in place the the database
+3. We also included some additional files apart from the default ones that were given for the better performance of the system
+4. 
